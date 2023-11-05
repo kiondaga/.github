@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://kiondaga.org/mailheader.png" align="center" style="width: 50%" />
+  <img src="https://kiondaga.org/mailheader.png" align="center" style="width: 600px" />
   
   # Kiondaga Lodge, Order of the Arrow
   ### Buffalo Trace Council, Boy Scouts of America
